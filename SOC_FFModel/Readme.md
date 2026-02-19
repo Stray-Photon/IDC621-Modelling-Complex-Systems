@@ -1,6 +1,8 @@
 # Self-Organized Criticality and the Forest Fire Model 
 
-https://github.com/user-attachments/assets/a4a38b08-b5c6-4e36-bb1d-ee2c33939350
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51ade283-100e-4fb3-a91a-f2e13ade33c6" width="500" />
+</p>
 
 Here, I have implemented the Bak–Chen–Tang forest fire model as a cellular automaton to study self-organized criticality (SOC) in a driven dissipative system.
 
